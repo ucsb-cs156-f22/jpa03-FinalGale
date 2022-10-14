@@ -2,6 +2,9 @@
 
 # demo-spring-react-example-v2: dsre-v2
 
+Repo link:
+* https://github.com/ucsb-cs156-f22/jpa03-FinalGale
+
 Storybook is here:
 * Production: <https://ucsb-cs156-f22.github.io/jpa03-FinalGale-docs>
 * QA:  <https://ucsb-cs156-f22.github.io/jpa03-FinalGale-docs-qa/>
